@@ -1,1 +1,2 @@
 # paiza-atcoader
+paizaとatcoaderを書いたらプッシュするリポジトリ
